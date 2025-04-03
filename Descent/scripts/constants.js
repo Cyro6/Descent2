@@ -1128,6 +1128,7 @@ DOORS_LIST = [
 BLOCKS_LIST = [
 	'1x1',
 	'1x1y',
+	'1x1g',
 	'2x2',
 	'2x2g'
 ];
